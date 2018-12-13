@@ -1,5 +1,5 @@
 <resources>
 	<string name="app_name">My Application</string>
-	<string name="action_settings">Settings</string>
 	<string name="string_sample">This is a first commit of the second branch</string>
+	<string name="string_sample2">This is a second commit of the second branch</string>
 </resources>
